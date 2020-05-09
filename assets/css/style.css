@@ -1,0 +1,14 @@
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+body {
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
